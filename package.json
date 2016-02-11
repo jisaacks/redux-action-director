@@ -24,5 +24,13 @@
   },
   "dependencies": {
     "director": "^1.2.8"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jisaacks/redux-action-director.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jisaacks/redux-action-director/issues"
+  },
+  "homepage": "https://github.com/jisaacks/redux-action-director#readme"
 }
