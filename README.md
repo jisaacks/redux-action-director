@@ -11,7 +11,7 @@ It is actually a tiny wrapper around [director](https://github.com/flatiron/dire
 ### Usage
 
 ```javascript
-import { createRouter } from './redux-action-director';
+import { createRouter } from 'redux-action-director';
 import { fetchPost } from './actions';
 import store from './store';
 
